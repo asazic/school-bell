@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.w3.org/2005/Atom">
+  <title>Marler Haley</title>
+  <link href="http://dev.marlerhaley.green-river-media.com" rel="self" />
+  <updated>2018-02-06T18:16:22.8572773+01:00</updated>
+  <entry>
+    <id>61</id>
+    <title>Genesis Roller Banner Stand</title>
+    <description />
+    <link>http://dev.marlerhaley.green-river-media.com/Products/Genesis-Roller-Banner-Stand/</link>
+    <image_link />
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>54 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>Genesis Roller Banner Stand</product_type>
+  </entry>
+  <entry>
+    <id>310</id>
+    <title>Genesis Roller Banner Stands1</title>
+    <description>Lorem ipsum dolor sit amet.</description>
+    <link>http://dev.marlerhaley.green-river-media.com/Banner-Stands/Banner-Sub/Genesis-Roller-Banner-Stands/</link>
+    <image_link>http://dev.marlerhaley.green-river-media.com/Marlerhaley/media/Images/category-figure-banner-stands.jpg?ext=.jpg</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>54 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>Genesis Roller Banner Stands1</product_type>
+  </entry>
+  <entry>
+    <id>325</id>
+    <title>New Product</title>
+    <description>lorem ipsum dolor sit amet.</description>
+    <link>http://dev.marlerhaley.green-river-media.com/Banner-Stands/Banner-Sub/New-Product/</link>
+    <image_link>http://dev.marlerhaley.green-river-media.com/Marlerhaley/media/Images/category-figure-display-plinth.jpg?ext=.jpg</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>45 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>New Product</product_type>
+  </entry>
+  <entry>
+    <id>355</id>
+    <title>2×3 Curved Pop Up Display Stand</title>
+    <description>desc.</description>
+    <link>http://dev.marlerhaley.green-river-media.com/Exhibition-Stands/Banner-Stands/2×3-Curved-Pop-Up-Display-Stand/</link>
+    <image_link>http://dev.marlerhaley.green-river-media.com/Marlerhaley/media/Images/cta-mini-figure_1.png?ext=.png</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>285 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>2×3 Curved Pop Up Display Stand</product_type>
+  </entry>
+  <entry>
+    <id>356</id>
+    <title>3×3 Curved Pop Up Display Stand</title>
+    <description />
+    <link>http://dev.marlerhaley.green-river-media.com/Exhibition-Stands/Banner-Stands/3×3-Curved-Pop-Up-Display-Stand/</link>
+    <image_link>http://dev.marlerhaley.green-river-media.com/Marlerhaley/media/Images/new-fabric-pop-up.jpg?ext=.jpg</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>24 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>3×3 Curved Pop Up Display Stand</product_type>
+  </entry>
+  <entry>
+    <id>374</id>
+    <title>test product without options</title>
+    <description>desc</description>
+    <link>http://dev.marlerhaley.green-river-media.com/Main-category-listing/Sub-category-listing-123/test-product-without-options/</link>
+    <image_link>http://dev.marlerhaley.green-river-media.com/Marlerhaley/media/Images/category-figure-exhibition-stands.jpg?ext=.jpg</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>0 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>test product without options</product_type>
+  </entry>
+  <entry>
+    <id>389</id>
+    <title>3m Backwall Modular Exhibition Systems</title>
+    <description>Banner Stands are the perfect way to raise awareness of your business and campaigns in an indoor setting such as an exhibition, conference or retail spaces</description>
+    <link>http://dev.marlerhaley.green-river-media.com/Exhibition-Stands/Exhibition-Stand-Builders/3m-Backwall-Modular-Exhibition-Systems/</link>
+    <image_link>http://dev.marlerhaley.green-river-media.com/Marlerhaley/media/Images/banner-stand-figure-1.jpg?ext=.jpg</image_link>
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>12 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>3m Backwall Modular Exhibition Systems</product_type>
+  </entry>
+  <entry>
+    <id>400</id>
+    <title>Product 1</title>
+    <description />
+    <link>http://dev.marlerhaley.green-river-media.com/Banner-Stands/Banner-Sub/Product-1/</link>
+    <image_link />
+    <condition>new</condition>
+    <availability>in stock</availability>
+    <price>0 GBP</price>
+    <shipping>
+      <country>GB</country>
+      <service>Standard delivery</service>
+      <price>12.95</price>
+    </shipping>
+    <brand>Marler Haley</brand>
+    <google_product_category>Business &amp; Industrial &gt; Advertising &amp; Marketing</google_product_category>
+    <product_type>Product 1</product_type>
+  </entry>
+</feed>
